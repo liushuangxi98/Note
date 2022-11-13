@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/杂项/6、openpyxl改格式.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/0..py" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/0..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/6、openpyxl改格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/6、openpyxl改格式.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/file/python/GitHub下载/ActionScore&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/file/python/工具库",
+    "settings.editor.selected.configurable": "fileTemplates"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.0.">
     <configuration name="0." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tool_library" />
@@ -156,6 +156,7 @@
       <workItem from="1667229007373" duration="22617000" />
       <workItem from="1668223546353" duration="7225000" />
       <workItem from="1668235238026" duration="1901000" />
+      <workItem from="1668338145806" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>

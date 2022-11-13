@@ -5,10 +5,12 @@
 # @File    : 0..py
 # @Description : 添加描述
 import openpyxl
-from openpyxl import load_workbook
+from openpyxl import load_workbook,Workbook
 from openpyxl.styles import Font, colors, Alignment, fills
 
 data = load_workbook('test_xlsx.xlsx')
+work = Workbook()
+work.create_sheet()
 sheet = data['Sheet1']
 myfont = Font(name="宋体", size=20, italic=True, color=colors.BLUE)
 my_fill = fills.PatternFill('solid', fgColor='FFC0CB')
