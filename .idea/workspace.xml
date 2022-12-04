@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/杂项/10.线性回归api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/人工智能.docx" beforeDir="false" afterPath="$PROJECT_DIR$/人工智能.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/6.openpyxl改格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/6.openpyxl改格式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/7.facebook案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/7.facebook案例.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/test_xlsx.xlsx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$人工智能.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/资料/线性代数知识点及复习资料.rar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +189,7 @@
       <workItem from="1669372632042" duration="11875000" />
       <workItem from="1669562826773" duration="1494000" />
       <workItem from="1669631641684" duration="4029000" />
-      <workItem from="1669648766601" duration="5907000" />
+      <workItem from="1669648766601" duration="6637000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>
@@ -328,7 +324,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669642792310</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Changes">
+      <created>1670155635840</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670155635840</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Changes">
+      <created>1670155695763</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670155695763</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
