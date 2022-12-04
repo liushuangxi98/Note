@@ -8,7 +8,7 @@ import openpyxl
 from openpyxl import load_workbook,Workbook
 from openpyxl.styles import Font, colors, Alignment, fills
 
-data = load_workbook('test_xlsx.xlsx')
+data = load_workbook('6.1test_xlsx.xlsx')
 work = Workbook()
 work.create_sheet()
 sheet = data['Sheet1']
