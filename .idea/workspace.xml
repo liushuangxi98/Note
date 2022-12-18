@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tool_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tool_library.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/人工智能.docx" beforeDir="false" afterPath="$PROJECT_DIR$/人工智能.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/5.鸢尾花种类预测-流程实现.py" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/5.鸢尾花种类预测-流程实现.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/资料/深入理解计算机系统-原书第三版.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/资料/深入理解计算机系统-原书第三版.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/资料/黑马课件文档.rar" beforeDir="false" afterPath="$PROJECT_DIR$/资料/黑马课件文档.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$人工智能.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +196,7 @@
       <workItem from="1669648766601" duration="9154000" />
       <workItem from="1670503266339" duration="689000" />
       <workItem from="1671116346899" duration="1643000" />
-      <workItem from="1671345338447" duration="329000" />
+      <workItem from="1671345338447" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>
@@ -365,7 +359,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670163131623</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Changes">
+      <created>1671345690975</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1671345690975</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Changes">
+      <created>1671345756823</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1671345756823</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
