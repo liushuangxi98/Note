@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes" />
+    <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/~$thon笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/7.facebook案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/7.facebook案例.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/资料/深入理解计算机系统-原书第三版.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/资料/深入理解计算机系统-原书第三版.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/资料/黑马课件文档.rar" beforeDir="false" afterPath="$PROJECT_DIR$/资料/黑马课件文档.rar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +206,8 @@
       <workItem from="1672916218263" duration="1356000" />
       <workItem from="1673004513415" duration="763000" />
       <workItem from="1673094267594" duration="1266000" />
-      <workItem from="1673355043207" duration="1838000" />
+      <workItem from="1673355043207" duration="3321000" />
+      <workItem from="1673431322314" duration="668000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>
@@ -398,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673356483899</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Changes">
+      <created>1673357170199</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1673357170199</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
