@@ -6,10 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
       <change afterPath="$PROJECT_DIR$/~$thon笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$人工智能.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂项/0/合并excel并画图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂项/12.合并excel并画图.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/7.facebook案例.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/7.facebook案例.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/资料/深入理解计算机系统-原书第三版.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/资料/深入理解计算机系统-原书第三版.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/资料/黑马课件文档.rar" beforeDir="false" afterPath="$PROJECT_DIR$/资料/黑马课件文档.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python笔记.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/0/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/0/chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/0/chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/0/merged.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/0/merged.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/0/新建 Microsoft Excel 工作表 - 副本 (2).xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/0/新建 Microsoft Excel 工作表 - 副本 (2).xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/0/新建 Microsoft Excel 工作表 - 副本.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/0/新建 Microsoft Excel 工作表 - 副本.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/0/新建 Microsoft Excel 工作表.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/0/新建 Microsoft Excel 工作表.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +55,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Python.boston_house_price_predict">
+  <component name="RunManager" selected="Python.1">
     <configuration name="0." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tool_library" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +78,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tool_library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/杂项/0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/杂项/0/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="10.线性回归api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tool_library" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,28 +114,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/杂项/10.线性回归api.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.特征预处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tool_library" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/杂项" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/杂项/4.特征预处理.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1" />
         <item itemvalue="Python.boston_house_price_predict" />
         <item itemvalue="Python.5.鸢尾花种类预测-流程实现" />
         <item itemvalue="Python.10.线性回归api" />
         <item itemvalue="Python.0." />
-        <item itemvalue="Python.4.特征预处理" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +215,8 @@
       <workItem from="1673094267594" duration="1266000" />
       <workItem from="1673355043207" duration="3321000" />
       <workItem from="1673431322314" duration="668000" />
+      <workItem from="1677838685620" duration="1372000" />
+      <workItem from="1677840070109" duration="8918000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>
@@ -412,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673357170199</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Changes">
+      <created>1677838742041</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1677838742041</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,9 +464,15 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="str(data.iloc[0, one_line_col])" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$boston_house_price_predict.coverage" NAME="boston_house_price_predict Coverage Results" MODIFIED="1672150276931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
+    <SUITE FILE_PATH="coverage/Note$1.coverage" NAME="1 Coverage Results" MODIFIED="1677850024999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项/0" />
     <SUITE FILE_PATH="coverage/$0_.coverage" NAME="0. 覆盖结果" MODIFIED="1669372744540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
     <SUITE FILE_PATH="coverage/$4_.coverage" NAME="4.特征预处理 Coverage Results" MODIFIED="1667571150031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
     <SUITE FILE_PATH="coverage/$5__.coverage" NAME="5.鸢尾花种类预测-流程实现 Coverage Results" MODIFIED="1671358536840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
