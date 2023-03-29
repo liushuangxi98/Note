@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/~$人工智能.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/杂项/15.绘制函数图像.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/杂项/16.breast-cancer-wisconsin.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/杂项/16.癌症分类预测.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$thon笔记.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂项/17.读取MP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/杂项/By2-By2《念念》.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/人工智能.docx" beforeDir="false" afterPath="$PROJECT_DIR$/人工智能.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +54,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.16.癌症分类预测">
+  <component name="RunManager" selected="Python.17.读取MP3">
     <configuration name="14.模型保存和加载" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tool_library" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="合并excel并画图" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17.读取MP3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tool_library" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/杂项/0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/杂项" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/杂项/0/合并excel并画图.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/杂项/17.读取MP3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17.读取MP3" />
         <item itemvalue="Python.16.癌症分类预测" />
         <item itemvalue="Python.15.绘制函数图像" />
         <item itemvalue="Python.14.模型保存和加载" />
         <item itemvalue="Python.setup" />
-        <item itemvalue="Python.合并excel并画图" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +228,8 @@
       <workItem from="1680172557566" duration="2914000" />
       <workItem from="1680178753716" duration="12812000" />
       <workItem from="1680273466915" duration="2000" />
+      <workItem from="1680448306595" duration="1245000" />
+      <workItem from="1680102706674" duration="2475000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>
@@ -469,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680015904075</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Changes">
+      <created>1680448349118</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1680448349118</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,10 +530,16 @@
           <line>12</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/杂项/17.读取MP3.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Note$17_MP3.coverage" NAME="17.读取MP3 Coverage Results" MODIFIED="1680105173695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
     <SUITE FILE_PATH="coverage/Note$11_boston_house_price_predict.coverage" NAME="11.boston_house_price_predict Coverage Results" MODIFIED="1679237877157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
     <SUITE FILE_PATH="coverage/$0_.coverage" NAME="0. 覆盖结果" MODIFIED="1669372744540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
     <SUITE FILE_PATH="coverage/$4_.coverage" NAME="4.特征预处理 Coverage Results" MODIFIED="1667571150031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
