@@ -9,6 +9,8 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+from sklearn.metrics import roc_auc_score
 # 1.获取数据
 # 2.基本数据处理
 # 2.1 缺失值处理
@@ -60,3 +62,11 @@ print(f'分数：{score}')
 is_equal = np.equal(y_predict, y_test)
 true_count = np.count_nonzero(is_equal == True)
 print(f'准确率:{true_count/len(y_predict)}')
+
+# 分类评估方法
+ret = classification_report(y_test,y_predict,labels=[2, 4], target_names=['良性', '恶性'])
+print(f'分类评估方法：精确率和召回率：\n{ret}')
+
+# AUC计算
+y_true = np.where(y_test>2.5,1,0)
+print(f'AUC指标：{roc_auc_score(y_true,y_predict)}')
