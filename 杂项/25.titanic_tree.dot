@@ -1,4 +1,4 @@
- digraph Tree {
+digraph Tree {
 node [shape=box, fontname="helvetica"] ;
 edge [fontname="helvetica"] ;
 0 [label="Sex=male <= 0.5\nentropy = 0.961\nsamples = 891\nvalue = [549, 342]"] ;
