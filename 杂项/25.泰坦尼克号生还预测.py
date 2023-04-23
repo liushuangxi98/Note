@@ -36,4 +36,9 @@ estimator.fit(x_train,y_train)
 # 4、模型评估
 socre = estimator.score(x_test,y_test)
 print('分数：', socre)
-estimator.predict(x_test)
+y_predict = estimator.predict(x_test)
+print('预测值：', y_predict)
+
+# 保存树的结构到dot文件
+export_graphviz(estimator, out_file='25.titanic_tree.dot', feature_names=transfer.get_feature_names_out())
+# 查看dot文件http://webgraphviz.com/
