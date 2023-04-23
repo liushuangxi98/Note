@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
       <change afterPath="$PROJECT_DIR$/~$人工智能.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/杂项/25.titanic_tree.dot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/25.泰坦尼克号生还预测.py" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/25.泰坦尼克号生还预测.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +234,7 @@
       <workItem from="1681656012494" duration="2581000" />
       <workItem from="1681829441154" duration="6015000" />
       <workItem from="1682001468732" duration="658000" />
-      <workItem from="1682082147990" duration="11210000" />
+      <workItem from="1682082147990" duration="12115000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>
@@ -511,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682254322033</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Changes">
+      <created>1682260191033</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1682260191033</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
