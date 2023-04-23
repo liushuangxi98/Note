@@ -16,6 +16,9 @@ target_data = iris.target
 feature_data = iris.data
 # print('目标值数据\n', target_data)
 # print('特征数据\n', feature_data)
+# print("鸢尾花特征的名字：\n", iris.feature_names)
+# print("鸢尾花目标值的名字：\n", iris.target_names)
+# print("鸢尾花的描述：\n", iris.DESCR)
 
 # 2、数据分割测试集和训练集
 feature_data_train, feature_data_test, target_data_train, target_data_test = train_test_split(feature_data, target_data,
