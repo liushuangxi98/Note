@@ -15,12 +15,12 @@ data_train = pd.read_csv('25.titanic\\train.csv')
 # 2、数据基本处理
 ## 确定目标值、特征值
 x_train = data_train[["Pclass", "Age", "Sex"]]
-y_train = data_train[['Survived']]
+y_train = data_train['Survived']
 ## 处理缺失值
 x_train['Age'].fillna(x_train['Age'].mean(), inplace=True)
 ## 数据集划分
 x_test = pd.read_csv('25.titanic\\test.csv')[["Pclass", "Age", "Sex"]]
-y_test = pd.read_csv('25.titanic\\gender_submission.csv')[['Survived']]
+y_test = pd.read_csv('25.titanic\\gender_submission.csv')['Survived']
 ## 处理缺失值
 x_test['Age'].fillna(x_train['Age'].mean(), inplace=True)
 # 特征工程
