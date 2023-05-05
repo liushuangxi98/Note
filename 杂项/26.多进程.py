@@ -43,5 +43,12 @@ def run4():
         res = pool.map(fun, [(s, i) for i in range(cnt)])
 
 if __name__ == '__main__':
-    run1()
-    print('end', time.time() -st)
+    # run2()
+    # print('end', time.time() -st)
+    st = time.time()
+    x=8
+    y=x
+    for i in range(x):
+        x=pow(x,y)
+    print(x)
+    print('end', time.time() - st)

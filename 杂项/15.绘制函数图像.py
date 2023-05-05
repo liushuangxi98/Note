@@ -9,7 +9,10 @@ import math
 
 
 plt.figure()
-x = [i*0.001 for i in range(-1000,1000)]
-y = [-math.log(1-i,10) for i in x]
+x = [i*0.00001 for i in range(1,99999)]
+y = [math.log((1-i)/i,math.e)/2 for i in x]
+y = [pow(math.e, i) for i in y]
+plt.rcParams['font.sans-serif']=['SimHei']
+plt.title('预测值不等于真实值')
 plt.plot(x,y)
 plt.show()
