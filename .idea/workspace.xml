@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8a0944f-821d-4ab7-a403-05622fd7817f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/杂项/30.IMDB-Movie-Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/杂项/30.电影案例分析.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$thon笔记.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python笔记.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Python笔记.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/人工智能.docx" beforeDir="false" afterPath="$PROJECT_DIR$/人工智能.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂项/30.电影案例分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/30.电影案例分析.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/杂项/8.交叉表和透视表.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/8.交叉表和透视表.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂项/8.交叉表数据.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/杂项/8.交叉表数据.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +243,12 @@
       <workItem from="1683126387178" duration="954000" />
       <workItem from="1683127506036" duration="258000" />
       <workItem from="1683206382980" duration="7195000" />
-      <workItem from="1683291774845" duration="38731000" />
+      <workItem from="1683291774845" duration="38908000" />
+      <workItem from="1683650190869" duration="766000" />
+      <workItem from="1683727010798" duration="2456000" />
+      <workItem from="1683953152114" duration="18216000" />
+      <workItem from="1683986018537" duration="8433000" />
+      <workItem from="1684148087031" duration="3562000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1667229495827</created>
@@ -574,7 +579,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683464958284</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Changes">
+      <created>1683650012469</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1683650012469</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
